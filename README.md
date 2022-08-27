@@ -38,7 +38,13 @@
 </p>
 
 ## Projects
-### <a href="https://github.com/shamsnazli/Seven_Sanabile_Pro">Seven Sanabile </a>
+### - <a href="https://github.com/shamsnazli/Seven_Sanabile_Pro">Seven Sanabile </a>
 Establishing a platform for managing donations and distributing in-kind donations between three actors: The Ministry of Awqaf, the Zakat Committees, and donors, and the possibility of benefiting from this platform by the beneficiaries in the Gaza Strip.
 
 <p>Achieving communication between beneficiaries and donors, in addition to providing a secure, local, official platform that is handed over to a third organization (the Ministry of Awqaf and Religious Affairs) that enjoys reliability and safety. The platform supports the Gaza Strip and works within it only to deliver and receive in-kind donations.</p>
+
+### - <a href="https://github.com/shamsnazli/admin_panel">Admin Panel </a>
+<p>Dashboard to manage books, authors and classifications, with the ability to add, edit and delete books, authors, and classifications, all of these powers for one person, who is the admin..</p>
+
+### - <a href="https://github.com/shamsnazli/Library-Project">EDUGATE</a>
+<p>A site for displaying books, authors and Categories with the activation of the search for books belonging to a specific author or search by publication date.</p>
