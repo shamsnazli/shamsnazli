@@ -21,22 +21,6 @@ I'am Laravel Back-end Developer, able to complete projects in the fastest time a
 </ul>
 
  
-### Github State
-<p>
-  <a href="https://github.com/gamussa?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsnazli&show_icons=true&theme=tokyonight&locale=en&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/gamussa?tab=repositories">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=shamsnazli&show_icons=true&theme=tokyonight&locale=en"
-    />
-  </a>
-</p>
 
 ## Projects
 ### - <a href="https://github.com/shamsnazli/Seven_Sanabile_Pro">Seven Sanabile </a>| 2022
@@ -60,3 +44,20 @@ Password: 123456789<br>
 ##### As Donor
 Email: donor@gmail.com<br>
 Password: 123456789<br>
+
+### Github State
+<p>
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsnazli&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=shamsnazli&show_icons=true&theme=tokyonight&locale=en"
+    />
+  </a>
+</p>
