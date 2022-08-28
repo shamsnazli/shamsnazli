@@ -1,8 +1,9 @@
 <h1 align="center">Hi there👋, Shams El-Nazli</h1>
 
-<h3 align="center">I'am Laravel Back-end Developer</h3>
+<h2 align="center">I'am Laravel Back-end Developer</h2>
+I'am Laravel Back-end Developer, able to complete projects in the fastest time and in high quality.
 <p>
-
+ My Eamil: <a href="https://mail.google.com/mail/u/0/#inbox"> shams.s.el.nazli@gmail.com </a>
 </p>
 
 <p align="center"><a href="https://twitter.com/Shamosa94295717"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shamsnazli/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://twitter.com/Shamosa94295717"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://discord.com/channels/shams El-nazli"><img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
