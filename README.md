@@ -16,6 +16,7 @@ Don't hesitate to contact me; I am ready to receive your requests at any time<br
  <li>Php</li>
  <li>Laravel Framework</li>
  <li>Jquery Library</li>
+ <li>JavaScript</li>
  <li>MySQL</li>
  <li>Github</li>
  <li>Postman</li>
